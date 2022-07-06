@@ -4,7 +4,7 @@ tri term sign_in scrpt
 
 ## 使用
 
-编辑配置文件signin.yaml为自己的个人信息
+编辑配置文件signin.yaml为自己的个人信息 ，‘:’ 后面要有空格
 
 将脚本改为可执行，放入git仓库目录(我的是404)下
 
